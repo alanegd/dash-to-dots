@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img alt="Who's that Pokémon?" src="src/logo.png" width="150" />
+    <img alt="Who's that Pokémon?" src="src/assets/logo.png" width="150" />
   </a>
 </p>
 
