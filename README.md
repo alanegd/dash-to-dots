@@ -1,27 +1,42 @@
-# DashToDots
+<p align="center">
+  <a>
+    <img alt="Who's that Pokémon?" src="src/logo.png" width="150" />
+  </a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
+<h1 align="center">
+  Dash to Dots
+</h1>
 
-## Development server
+Single web application made with Angular. Get ready to embark on an educational journey as you become a skilled artisan of Morse code messages. Practice Morse code writing with hands-on exercises that challenge your skills and enhance your proficiency. Feel free to open a pull request in case you have any suggestions to enhance this project.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Technologies used
 
-## Code scaffolding
+- [Angular](https://angular.io/): TypeScript-based open-source web application framework.
+- [Tailwind CSS](https://tailwindcss.com/): CSS framework.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Getting started
 
-## Build
+1. Open the command prompt and clone the repository:
+```sh
+git clone https://github.com/alanegd/dash-to-dots.git
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+2. Navigate to the project directory.
 
-## Running unit tests
+3. Run the following command to install the necessary dependencies listed in the package.json file:
+```sh
+npm install
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+4. Run the Development Server with:
+```sh
+ng serve 
+```
 
-## Running end-to-end tests
+5. Open your web browser and navigate to `http://localhost:4200/` to view the app. 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contact
+* GitHub: [https://github.com/alanegd](https://github.com/alanegd)
+* LinkedIn: [https://www.linkedin.com/in/alan-galavis/](https://www.linkedin.com/in/alan-galavis/)
